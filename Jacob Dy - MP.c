@@ -1,7 +1,6 @@
 /*
 
 	Name: Jacob Miguel C. Dy
-	ID #: 11927704
 	Section: S11B
 	CCPROG1 Machine Project
 	
